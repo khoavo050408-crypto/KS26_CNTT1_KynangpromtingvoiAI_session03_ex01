@@ -320,13 +320,21 @@ Nguyễn Văn Hoàng
 ```
 
 Dear HR,
+
 Em tên là TRẦN THỊ MINH ANH, hiện đang là sinh viên và muốn apply vào vị trí Data Analyst Intern bên mình.
+
 Thông tin liên hệ:
+
 SĐT: +84 987 654 321
+
 Mail: minhanh.tran@gmail.com
+
 Em có khoảng 1 năm kinh nghiệm làm project phân tích dữ liệu và hỗ trợ thực tập. Các skill em đang có gồm: Excel, SQL, Power BI, Python, Tableau, SQL, excel và Power BI.
+
 Em mong muốn được học hỏi thêm và phát triển trong môi trường chuyên nghiệp. Nếu được thì mong HR phản hồi qua mail hoặc sđt phía trên ạ.
+
 Thanks & Regards,
+
 Minh Anh
 
 ```
