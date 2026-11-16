@@ -283,3 +283,66 @@ JavaScript, ReactJS, MongoDB, NodeJS, Git.
   ]
 }
 ```
+## Ví Dụ
+
+Chào anh/chị bộ phận tuyển dụng,
+
+Em là Nguyễn Văn Hoàng, hiện đang tìm kiếm cơ hội làm việc tại công ty ở vị trí Backend Developer. Em thấy công ty đang tuyển dụng vị trí này nên muốn gửi CV để ứng tuyển.
+
+Một chút thông tin về em:
+
+Em đã có khoảng 2 năm kinh nghiệm làm các dự án cá nhân và thực tập.
+SĐT: 090 123 4567
+Email liên hệ: hoang.nguyen@gmail.com
+Về kỹ năng thì em sử dụng Python, SQL, FastAPI, Git và Docker. Ngoài ra em cũng có học thêm Python, SQL trong quá trình làm dự án.
+
+Mong công ty xem xét hồ sơ và phản hồi giúp em.
+
+Em cảm ơn!
+
+Nguyễn Văn Hoàng 
+
+```
+{
+  "name": "Nguyễn Văn Hoàng",
+  "phone": "+84901234567",
+  "email": "hoang.nguyen@gmail.com",
+  "position": "Backend Developer",
+  "experience_years": 2,
+  "skills": [
+    "Python",
+    "SQL",
+    "FastAPI",
+    "Git",
+    "Docker"
+  ]
+}
+```
+
+Dear HR,
+Em tên là TRẦN THỊ MINH ANH, hiện đang là sinh viên và muốn apply vào vị trí Data Analyst Intern bên mình.
+Thông tin liên hệ:
+SĐT: +84 987 654 321
+Mail: minhanh.tran@gmail.com
+Em có khoảng 1 năm kinh nghiệm làm project phân tích dữ liệu và hỗ trợ thực tập. Các skill em đang có gồm: Excel, SQL, Power BI, Python, Tableau, SQL, excel và Power BI.
+Em mong muốn được học hỏi thêm và phát triển trong môi trường chuyên nghiệp. Nếu được thì mong HR phản hồi qua mail hoặc sđt phía trên ạ.
+Thanks & Regards,
+Minh Anh
+
+```
+{
+  "name": "Trần Thị Minh Anh",
+  "phone": "+84987654321",
+  "email": "minhanh.tran@gmail.com",
+  "position": "Data Analyst Intern",
+  "experience_years": 1,
+  "skills": [
+    "Excel",
+    "SQL",
+    "Power BI",
+    "Python",
+    "Tableau"
+  ]
+}
+```
+
